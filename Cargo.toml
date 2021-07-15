@@ -9,8 +9,8 @@ repository = "https://github.com/iron/params"
 documentation = "http://ironframework.io/doc/params/index.html"
 
 [dependencies]
-bodyparser = { git = "https://github.com/iron/body-parser.git" }
-iron = ">=0.5, <0.7"
+bodyparser = { git = "https://github.com/augmentedradar/body-parser.git" }
+iron = "0.6.1"
 num = "0.1"
 plugin = "0.2"
 serde = { version = "1", optional = true }
